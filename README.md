@@ -1,4 +1,4 @@
-# Saturno Mangieri — RPG Character Codex
+# Saturno Mangieri — RPG Character SystemSmith lvl 78
 > **Class:** AI-Native Fullstack Engineer  
 > **Archetype:** Remote Product Builder / Systems Mage / Web3 Pathfinder  
 > **Alignment:** Builder of Useful Things  
